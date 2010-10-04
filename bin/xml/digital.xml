@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<portfolio>
+	
+	<title><![CDATA[Digital creation in multiple dimensions—any language, any platform, any software application, any brand.]]></title>
+	<links><![CDATA[<a href="http://www.foo.com" target="_top">Learn more about our DIGITAL service ></a>]]></links>
+	
+	<work>
+		<label><![CDATA[Avaya digital showcase]]></label>
+		<caption></caption>
+		<visual type="image">assets/small_image/US_-_Home_Page_-_Apr_2010.png</visual>
+		<portfolio_target>xml/Avaya_digital_showcase.xml</portfolio_target>	
+	</work>
+		
+	<work>
+		<label><![CDATA[Hughes digital showcase]]></label>
+		<caption></caption>
+		<visual type="image">assets/small_image/hughes.enterprise.web.png</visual>
+		<portfolio_target>xml/test.xml</portfolio_target>
+	</work>
+
+	<work>
+		<label><![CDATA[Johnsons&Johnsons digital showcase]]></label>
+		<caption></caption>
+		<visual type="image">assets/small_image/Johnsons_buddies.png</visual>
+		<portfolio_target>xml/test.xml</portfolio_target>
+	</work>	
+
+</portfolio>

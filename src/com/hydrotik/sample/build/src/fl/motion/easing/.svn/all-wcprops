@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/17/trunk/build/src/fl/motion/easing
+END
+Sine.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/17/trunk/build/src/fl/motion/easing/Sine.as
+END
+Back.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/17/trunk/build/src/fl/motion/easing/Back.as
+END
+Quartic.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/17/trunk/build/src/fl/motion/easing/Quartic.as
+END
+Cubic.as
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/17/trunk/build/src/fl/motion/easing/Cubic.as
+END
+Bounce.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/17/trunk/build/src/fl/motion/easing/Bounce.as
+END
+Quintic.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/17/trunk/build/src/fl/motion/easing/Quintic.as
+END
+Linear.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/17/trunk/build/src/fl/motion/easing/Linear.as
+END
+Elastic.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/17/trunk/build/src/fl/motion/easing/Elastic.as
+END
+Exponential.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/trunk/build/src/fl/motion/easing/Exponential.as
+END
+Circular.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/trunk/build/src/fl/motion/easing/Circular.as
+END
+Quadratic.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/trunk/build/src/fl/motion/easing/Quadratic.as
+END

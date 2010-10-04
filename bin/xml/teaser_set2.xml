@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<teasers>
+	
+	<default_teaser>
+		<body><![CDATA[We are experts in the <font color='#F2352F'>cultures </font>of a changing world… redefining how <font color='#F2352F'>brands</font> and <font color='#F2352F'>consumers</font> interact.]]></body>
+		<link_label></link_label>		
+	</default_teaser>
+	
+	<teaser>
+		<label>DIGITAL</label>
+		<color>0x7BB5F1</color>
+		<thumbnail>assets/set2_Digital.png</thumbnail>
+		<body><![CDATA[Online advertising could<br>grow to <font color='#7BB5F1'>$98 billion</font> by 2015.]]></body>
+		<link_label><![CDATA[<a href="http://www.foo.com" target="_top">Is your brand future ready?</a>]]></link_label>
+		<link_target>http://www.foo.com</link_target>
+		<portfolio_target>xml/digital.xml</portfolio_target>
+	</teaser>
+	
+	<teaser>
+		<label>BRANDING</label>
+		<color>0xBDC000</color>
+		<thumbnail>assets/set2_branding.png</thumbnail>
+		<body><![CDATA[Brand <font color='#BDC000'>differentiation</font> =<br>Brand <font color='#BDC000'>value</font>.]]></body>
+		<link_label><![CDATA[<a href="http://www.foo.com" target="_top">Stand apart.</a>]]></link_label>
+		<link_target>http://www.foo.com</link_target>
+		<portfolio_target>xml/branding.xml</portfolio_target>
+	</teaser>	
+	
+	<teaser>
+		<label>ADVERTISING</label>
+		<color>0xDB4493</color>
+		<thumbnail>assets/set2_ad.png</thumbnail>
+		<body><![CDATA[<font color='#DB4493'>Insight</font> is a great start.]]></body>
+		<link_label><![CDATA[<a href="http://www.foo.com" target="_top">Now turn it into results.</a>]]></link_label>
+		<link_target>http://www.foo.com</link_target>
+		<portfolio_target>xml/advertising.xml</portfolio_target>
+	</teaser>
+	
+	<teaser>
+		<label>DIRECT</label>
+		<color>0x44459D</color>
+		<thumbnail>assets/set2_DM.png</thumbnail>
+		<body><![CDATA[Connect with your <font color='#44459D'>audience</font><br>and you’ve got their <font color='#44459D'>attention</font>.]]></body>
+		<link_label><![CDATA[<a href="http://www.foo.com" target="_top">But how can you win their loyalty?</a>]]></link_label>
+		<link_target>http://www.foo.com</link_target>
+		<portfolio_target>xml/direct.xml</portfolio_target>
+	</teaser>
+
+	<teaser>
+		<label>GLOBAL</label>
+		<color>0x6BBA7C</color>
+		<thumbnail>assets/se1_global.png</thumbnail>
+		<body><![CDATA[There are 20 million people<br>in <font color='#6BBA7C'>Shanghai</font>.]]></body>
+		<link_label><![CDATA[<a href="http://www.foo.com" target="_top">How many of them know your brand?</a>]]></link_label>
+		<link_target>http://www.foo.com</link_target>
+		<portfolio_target>xml/global.xml</portfolio_target>
+	</teaser>
+
+	<teaser>
+		<label>MULTICULTURAL</label>
+		<color>0xD9793D</color>
+		<thumbnail>assets/set2_mc.png</thumbnail>
+		<body><![CDATA[Emotional appeals have <font color='#D9793D'> power </font>for multicultural consumers.]]></body>
+		<link_label><![CDATA[<a href="http://www.foo.com" target="_top">Do you know which buttons to push?</a>]]></link_label>
+		<link_target>http://www.foo.com</link_target>
+		<portfolio_target>xml/multicultural.xml</portfolio_target>
+	</teaser>	
+
+	<teaser>
+		<label>LATINO</label>
+		<color>0xD14736</color>
+		<thumbnail>assets/set2_latino.png</thumbnail>
+		<body><![CDATA[Hispanic consumers have<br>over <font color='#D14736'> $1 </font>trillion of disposable<br>income.]]></body>
+		<link_label><![CDATA[<a href="http://www.foo.com" target="_top">How can you get their attention?</a>]]></link_label>
+		<link_target>http://www.foo.com</link_target>
+		<portfolio_target>xml/latino.xml</portfolio_target>
+	</teaser>		
+
+	<teaser>
+		<label>SOCIAL MEDIA</label>
+		<color>0x7BB5F1</color>
+		<thumbnail>assets/set2_social.png</thumbnail>
+		<body><![CDATA[74% of consumers rely on<br>social media for <font color='#7BB5F1'>purchasing<br>decisions</font>.]]></body>
+		<link_label><![CDATA[<a href="http://www.foo.com" target="_top">Are you missing an opportunity?</a>]]></link_label>
+		<link_target>http://www.foo.com</link_target>
+		<portfolio_target>xml/social_media.xml</portfolio_target>
+	</teaser>	
+</teasers>

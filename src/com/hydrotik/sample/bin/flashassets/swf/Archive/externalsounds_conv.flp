@@ -1,0 +1,30 @@
+﻿<flash_project name="externalsounds_conv.flp" version="1">
+    <project_folder name="caurina" expanded="false">
+        <project_folder name="transitions" expanded="true">
+            <project_file path="./externalsounds_conv_as/caurina/transitions/AuxFunctions.as" filetype="as" />
+            <project_file path="./externalsounds_conv_as/caurina/transitions/Equations.as" filetype="as" />
+            <project_file path="./externalsounds_conv_as/caurina/transitions/PropertyInfoObj.as" filetype="as" />
+            <project_file path="./externalsounds_conv_as/caurina/transitions/SpecialPropertiesDefault.as" filetype="as" />
+            <project_file path="./externalsounds_conv_as/caurina/transitions/SpecialProperty.as" filetype="as" />
+            <project_file path="./externalsounds_conv_as/caurina/transitions/SpecialPropertyModifier.as" filetype="as" />
+            <project_file path="./externalsounds_conv_as/caurina/transitions/SpecialPropertySplitter.as" filetype="as" />
+            <project_file path="./externalsounds_conv_as/caurina/transitions/TweenListObj.as" filetype="as" />
+            <project_file path="./externalsounds_conv_as/caurina/transitions/Tweener.as" filetype="as" />
+        </project_folder>
+    </project_folder>
+    <project_folder name="com" expanded="false">
+        <project_folder name="hydrotik" expanded="true">
+            <project_folder name="utils" expanded="true">
+                <project_file path="./externalsounds_conv_as/com/hydrotik/utils/SoundManager.as" filetype="as" />
+            </project_folder>
+        </project_folder>
+    </project_folder>
+    <project_folder name="externalsounds_fla" expanded="true">
+        <project_file path="./externalsounds_conv_as/externalsounds_fla/MainTimeline.as" filetype="as" />
+    </project_folder>
+    <project_file path="./externalsounds_conv_as/Loop1.as" filetype="as" />
+    <project_file path="./externalsounds_conv_as/Loop2.as" filetype="as" />
+    <project_file path="./externalsounds_conv_as/Loop3.as" filetype="as" />
+    <project_file path="./externalsounds_conv_as/Loop4.as" filetype="as" />
+    <project_file path="./externalsounds_conv.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>

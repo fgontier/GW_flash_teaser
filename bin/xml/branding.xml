@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<portfolio>
+	
+	<title><![CDATA[Is a brand a logo? Or is it a feeling, a personality, a symbol—creating a relationship with consumers?]]></title>
+	<links><![CDATA[<a href="http://www.foo.com" target="_top">Learn more about our BRANDING service ></a>]]></links>
+	
+	<work>
+		<label><![CDATA[Avaya digital showcase]]></label>
+		<caption></caption>
+		<visual type="image">assets/small_image/test.png</visual>
+		<portfolio_target>xml/test.xml</portfolio_target>	
+	</work>
+		
+	<work>
+		<label><![CDATA[Hughes digital showcase]]></label>
+		<caption></caption>
+		<visual type="image">assets/small_image/test.png</visual>
+		<portfolio_target>xml/test.xml</portfolio_target>
+	</work>
+
+	<work>
+		<label><![CDATA[Johnsons&Johnsons digital showcase]]></label>
+		<caption></caption>
+		<visual type="image">assets/small_image/test.png</visual>
+		<portfolio_target>xml/test.xml</portfolio_target>
+	</work>	
+
+</portfolio>

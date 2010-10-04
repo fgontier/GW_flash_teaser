@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<portfolio>
+	
+	<title><![CDATA[What is culture? It's not about language.]]></title>
+	<links><![CDATA[<a href="http://www.foo.com" target="_top">Learn more about our MULTICULTURAL service ></a>]]></links>
+	
+	<work>
+		<label><![CDATA[Avaya digital showcase]]></label>
+		<caption></caption>
+		<visual type="image">assets/small_image/test.png</visual>
+		<portfolio_target>xml/test.xml</portfolio_target>	
+	</work>
+		
+	<work>
+		<label><![CDATA[Hughes digital showcase]]></label>
+		<caption></caption>
+		<visual type="image">assets/small_image/test.png</visual>
+		<portfolio_target>xml/test.xml</portfolio_target>
+	</work>
+
+	<work>
+		<label><![CDATA[Johnsons&Johnsons digital showcase]]></label>
+		<caption></caption>
+		<visual type="image">assets/small_image/test.png</visual>
+		<portfolio_target>xml/test.xml</portfolio_target>
+	</work>	
+
+</portfolio>

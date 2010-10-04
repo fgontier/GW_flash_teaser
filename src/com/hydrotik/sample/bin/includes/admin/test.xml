@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<test
+	css="test.css"
+	>
+	<!--
+	Fonts:
+		
+	-->
+	
+	
+	
+	<queueloader prefix="../">
+		<item container="this" src="flashassets/swf/externalimages.swf">
+			<info>
+				<title><![CDATA[SWF Images]]></title>
+				<cacheKiller><![CDATA[true]]></cacheKiller>
+				<drawFrames><![CDATA[true]]></drawFrames>
+			</info>
+		</item>
+		<item container="imageContainer" src="flashassets/images/slideshow/1.jpg">
+			<info>
+				<title><![CDATA[Image 1]]></title>
+				<cacheKiller><![CDATA[true]]></cacheKiller>
+			</info>
+		</item>
+		<item container="null" src="flashassets/images/slideshow/2.jpg">
+			<info>
+				<title><![CDATA[Image 2]]></title>
+				<cacheKiller><![CDATA[true]]></cacheKiller>
+			</info>
+		</item>
+		<item container="null" src="flashassets/images/slideshow/3.jpg">
+			<info>
+				<title><![CDATA[Image 3]]></title>
+				<cacheKiller><![CDATA[true]]></cacheKiller>
+			</info>
+		</item>
+	</queueloader>
+	
+	
+	
+	
+	
+	<config>
+		<audio src="flashassets/swf/externalsounds.swf" />
+	</config>
+	
+	
+	<images>
+		<img src="flashassets/images/slideshow/1.jpg" />
+		<img src="flashassets/images/slideshow/2.jpg" />
+		<img src="flashassets/images/slideshow/3.jpg" />
+	</images>
+	
+</test>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute" frameRate="30">
+	<!-- The target object will be an image called "myImage". -->
+	<!-- It is a good practice to set the size for the Image object to the actual
+	size of the image, otherwise the effects will not work due to an incorrect size
+	of the Image component -->
+	<mx:Image width="279" height="161"  source="http://helpexamples.com/flash/images/image1.jpg" id="myImage" autoLoad="true" scaleContent="true" complete="loadComplete()" x="100" y="100"/>
+	<mx:Script>
+		<![CDATA[
+			import FlashEff2Flex;
+			import com.jumpeye.flashEff2.symbol.waves.FESWaves;
+			
+			//import com.jumpeye.flashEff2.symbol.flip.FESFlipBars;
+	
+			private var myEffect:FlashEff2Flex;
+			//private var reflection:FEFReflection;
+			
+			private function loadComplete():void {
+				// Once the image has been loaded, create the FlashEff2Flex component
+				// instance, set it up and apply it on the image.
+				myEffect = new FlashEff2Flex();
+				addChild(myEffect);
+				
+				// Create the reflection filter instance and set it up as you like.
+				var pattern0:FESWaves = new FESWaves();
+				pattern0.preset=1;
+				pattern0.waveThickness=20;
+				pattern0.groupDuration=1;
+				pattern0.tweenDuration=1.5;
+				pattern0.tweenType='Strong';
+				pattern0.easeType='easeOut';
+ 				
+ 				myEffect.showTransition=pattern0
+				
+				// Set the target object to the FlashEff2Flex instance. Once you do this,
+				// the filter will be applied immediately.
+				myEffect.target = myImage;
+			}
+		]]>
+	</mx:Script>
+</mx:Application>
+
+
+
+

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<portfolio>
+	
+	<title><![CDATA[Lorem ipsum dolor sit st amet, consectetuer adipiscing en elit dolor.]]></title>
+	<links><![CDATA[Related Work<br><a href="http://www.foo.com" target="_top">HUGHES</a>]]></links>
+	
+	<work>
+		<label><![CDATA[AVAYA Global Website. 26 countries, 31 languages.]]></label>
+		<caption><![CDATA[Some captions here<br>(2 lines max).]]></caption>
+		<visual type="image">assets/big_image/Atlas_home2.png</visual>
+		<portfolio_target></portfolio_target>	
+	</work>
+	
+	<work>
+		<label><![CDATA[This is a flash banner.]]></label>
+		<caption><![CDATA[Some captions here<br>(2 lines max).]]></caption>
+		<visual type="flash">assets/big_image/guard_piechart_300x250.swf</visual>
+		<portfolio_target></portfolio_target>	
+	</work>	
+	
+	<work>
+		<label><![CDATA[This is an mp4 video.]]></label>
+		<caption><![CDATA[Some captions here<br>(2 lines max).]]></caption>
+		<visual type="video">assets/big_image/LBS_series6_small.mp4</visual>
+		<portfolio_target></portfolio_target>	
+	</work>		
+	
+</portfolio>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<portfolio>
+	
+	<title><![CDATA[Humans are social beings. It was only a matter of time before technology caught on.]]></title>
+	<links><![CDATA[<a href="http://www.foo.com" target="_top">Learn more about our SOCIAL MEDIA service ></a>]]></links>
+	
+	<work>
+		<label><![CDATA[Avaya digital showcase]]></label>
+		<caption></caption>
+		<visual type="image">assets/small_image/test.png</visual>
+		<portfolio_target>xml/test.xml</portfolio_target>	
+	</work>
+		
+	<work>
+		<label><![CDATA[Hughes digital showcase]]></label>
+		<caption></caption>
+		<visual type="image">assets/small_image/test.png</visual>
+		<portfolio_target>xml/test.xml</portfolio_target>
+	</work>
+
+	<work>
+		<label><![CDATA[Johnsons&Johnsons digital showcase]]></label>
+		<caption></caption>
+		<visual type="image">assets/small_image/test.png</visual>
+		<portfolio_target>xml/test.xml</portfolio_target>
+	</work>	
+
+</portfolio>
